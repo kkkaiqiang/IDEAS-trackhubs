@@ -1,0 +1,1397 @@
+track bigBed1
+priority 4
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.1.bb
+shortLabel ESC.I3
+longLabel ideas_roadmap127_2019 ES-I3_Cells
+color 146,73,101
+visibility dense
+
+track bigBed2
+priority 2
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.2.bb
+shortLabel ESC.WA7
+longLabel ideas_roadmap127_2019 ES-WA7_Cells
+color 146,73,101
+visibility dense
+
+track bigBed3
+priority 8
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.3.bb
+shortLabel ESC.H1
+longLabel ideas_roadmap127_2019 H1_Cells
+color 146,73,101
+visibility dense
+
+track bigBed4
+priority 21
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.4.bb
+shortLabel ESDR.H1.BMP4.MESO
+longLabel ideas_roadmap127_2019 H1_BMP4_Derived_Mesendoderm_Cultured_Cells
+color 65,120,174
+visibility dense
+
+track bigBed5
+priority 22
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.5.bb
+shortLabel ESDR.H1.BMP4.TROP
+longLabel ideas_roadmap127_2019 H1_BMP4_Derived_Trophoblast_Cultured_Cells
+color 65,120,174
+visibility dense
+
+track bigBed6
+priority 23
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.6.bb
+shortLabel ESDR.H1.MSC
+longLabel ideas_roadmap127_2019 H1_Derived_Mesenchymal_Stem_Cells
+color 65,120,174
+visibility dense
+
+track bigBed7
+priority 15
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.7.bb
+shortLabel ESDR.H1.NEUR.PROG
+longLabel ideas_roadmap127_2019 H1_Derived_Neuronal_Progenitor_Cultured_Cells
+color 65,120,174
+visibility dense
+
+track bigBed8
+priority 3
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.8.bb
+shortLabel ESC.H9
+longLabel ideas_roadmap127_2019 H9_Cells
+color 146,73,101
+visibility dense
+
+track bigBed9
+priority 16
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.9.bb
+shortLabel ESDR.H9.NEUR.PROG
+longLabel ideas_roadmap127_2019 H9_Derived_Neuronal_Progenitor_Cultured_Cells
+color 65,120,174
+visibility dense
+
+track bigBed10
+priority 17
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.10.bb
+shortLabel ESDR.H9.NEUR
+longLabel ideas_roadmap127_2019 H9_Derived_Neuron_Cultured_Cells
+color 65,120,174
+visibility dense
+
+track bigBed11
+priority 20
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.11.bb
+shortLabel ESDR.CD184.ENDO
+longLabel ideas_roadmap127_2019 hESC_Derived_CD184+_Endoderm_Cultured_Cells
+color 65,120,174
+visibility dense
+
+track bigBed12
+priority 19
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.12.bb
+shortLabel ESDR.CD56.ECTO
+longLabel ideas_roadmap127_2019 hESC_Derived_CD56+_Ectoderm_Cultured_Cells
+color 65,120,174
+visibility dense
+
+track bigBed13
+priority 18
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.13.bb
+shortLabel ESDR.CD56.MESO
+longLabel ideas_roadmap127_2019 hESC_Derived_CD56+_Mesoderm_Cultured_Cells
+color 65,120,174
+visibility dense
+
+track bigBed14
+priority 6
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.14.bb
+shortLabel ESC.HUES48
+longLabel ideas_roadmap127_2019 HUES48_Cells
+color 146,73,101
+visibility dense
+
+track bigBed15
+priority 5
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.15.bb
+shortLabel ESC.HUES6
+longLabel ideas_roadmap127_2019 HUES6_Cells
+color 146,73,101
+visibility dense
+
+track bigBed16
+priority 7
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.16.bb
+shortLabel ESC.HUES64
+longLabel ideas_roadmap127_2019 HUES64_Cells
+color 146,73,101
+visibility dense
+
+track bigBed17
+priority 1
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.17.bb
+shortLabel LNG.IMR90
+longLabel ideas_roadmap127_2019 IMR90_fetal_lung_fibroblasts_Cell_Line
+color 228,26,28
+visibility dense
+
+track bigBed18
+priority 12
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.18.bb
+shortLabel IPSC.15b
+longLabel ideas_roadmap127_2019 iPS-15b_Cells
+color 105,96,138
+visibility dense
+
+track bigBed19
+priority 11
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.19.bb
+shortLabel IPSC.18
+longLabel ideas_roadmap127_2019 iPS-18_Cells
+color 105,96,138
+visibility dense
+
+track bigBed20
+priority 10
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.20.bb
+shortLabel IPSC.20B
+longLabel ideas_roadmap127_2019 iPS-20b_Cells
+color 105,96,138
+visibility dense
+
+track bigBed21
+priority 13
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.21.bb
+shortLabel IPSC.DF.6.9
+longLabel ideas_roadmap127_2019 iPS_DF_6.9_Cells
+color 105,96,138
+visibility dense
+
+track bigBed22
+priority 14
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.22.bb
+shortLabel IPSC.DF.19.11
+longLabel ideas_roadmap127_2019 iPS_DF_19.11_Cells
+color 105,96,138
+visibility dense
+
+track bigBed23
+priority 50
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.23.bb
+shortLabel FAT.MSC.DR.ADIP
+longLabel ideas_roadmap127_2019 Mesenchymal_Stem_Cell_Derived_Adipocyte_Cultured_Cells
+color 182,92,115
+visibility dense
+
+track bigBed24
+priority 9
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.24.bb
+shortLabel ESC.4STAR
+longLabel ideas_roadmap127_2019 ES-UCSF4__Cells
+color 146,73,101
+visibility dense
+
+track bigBed25
+priority 49
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.25.bb
+shortLabel FAT.ADIP.DR.MSC
+longLabel ideas_roadmap127_2019 Adipose_Derived_Mesenchymal_Stem_Cell_Cultured_Cells
+color 182,92,115
+visibility dense
+
+track bigBed26
+priority 47
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.26.bb
+shortLabel STRM.MRW.MSC
+longLabel ideas_roadmap127_2019 Bone_Marrow_Derived_Cultured_Mesenchymal_Stem_Cells
+color 182,92,115
+visibility dense
+
+track bigBed27
+priority 59
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.27.bb
+shortLabel BRST.MYO
+longLabel ideas_roadmap127_2019 Breast_Myoepithelial_Primary_Cells
+color 255,157,12
+visibility dense
+
+track bigBed28
+priority 58
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.28.bb
+shortLabel BRST.HMEC.35
+longLabel ideas_roadmap127_2019 Breast_variant_Human_Mammary_Epithelial_Cells_(vHMEC)
+color 255,157,12
+visibility dense
+
+track bigBed29
+priority 38
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.29.bb
+shortLabel BLD.CD14.PC
+longLabel ideas_roadmap127_2019 Primary_monocytes_from peripheral blood
+color 103,140,105
+visibility dense
+
+track bigBed30
+priority 46
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.30.bb
+shortLabel BLD.CD15.PC
+longLabel ideas_roadmap127_2019 Primary_neutrophils_from peripheral blood
+color 103,140,105
+visibility dense
+
+track bigBed31
+priority 39
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.31.bb
+shortLabel BLD.CD19.CPC
+longLabel ideas_roadmap127_2019 Primary_B_cells_from_cord_blood
+color 103,140,105
+visibility dense
+
+track bigBed32
+priority 44
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.32.bb
+shortLabel BLD.CD19.PPC
+longLabel ideas_roadmap127_2019 Primary_B_cells_from_peripheral_blood
+color 103,140,105
+visibility dense
+
+track bigBed33
+priority 27
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.33.bb
+shortLabel BLD.CD3.CPC
+longLabel ideas_roadmap127_2019 Primary_T_cells_from_cord_blood
+color 85,163,84
+visibility dense
+
+track bigBed34
+priority 25
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.34.bb
+shortLabel BLD.CD3.PPC
+longLabel ideas_roadmap127_2019 Primary_T_cells_from peripheral blood
+color 85,163,84
+visibility dense
+
+track bigBed35
+priority 40
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.35.bb
+shortLabel BLD.CD34.PC
+longLabel ideas_roadmap127_2019 Primary_hematopoietic_stem_cells
+color 103,140,105
+visibility dense
+
+track bigBed36
+priority 43
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.36.bb
+shortLabel BLD.CD34.CC
+longLabel ideas_roadmap127_2019 Primary_hematopoietic_stem_cells_short_term_culture
+color 103,140,105
+visibility dense
+
+track bigBed37
+priority 34
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.37.bb
+shortLabel BLD.CD4.MPC
+longLabel ideas_roadmap127_2019 Primary_T_helper_memory_cells_from_peripheral_blood_2
+color 85,163,84
+visibility dense
+
+track bigBed38
+priority 36
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.38.bb
+shortLabel BLD.CD4.NPC
+longLabel ideas_roadmap127_2019 Primary_T_helper_naive_cells_from_peripheral_blood
+color 85,163,84
+visibility dense
+
+track bigBed39
+priority 30
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.39.bb
+shortLabel BLD.CD4.CD25M.CD45RA.NPC
+longLabel ideas_roadmap127_2019 Primary_T_helper_naive_cells_from peripheral blood
+color 85,163,84
+visibility dense
+
+track bigBed40
+priority 33
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.40.bb
+shortLabel BLD.CD4.CD25M.CD45RO.MPC
+longLabel ideas_roadmap127_2019 Primary_T_helper_memory_cells_from_peripheral_blood_1
+color 85,163,84
+visibility dense
+
+track bigBed41
+priority 31
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.41.bb
+shortLabel BLD.CD4.CD25M.IL17M.PL.TPC
+longLabel ideas_roadmap127_2019 Primary_T_helper_cells_PMA-I_stimulated
+color 85,163,84
+visibility dense
+
+track bigBed42
+priority 32
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.42.bb
+shortLabel BLD.CD4.CD25M.IL17P.PL.TPC
+longLabel ideas_roadmap127_2019 Primary_T_helper_17_cells_PMA-I_stimulated
+color 85,163,84
+visibility dense
+
+track bigBed43
+priority 29
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.43.bb
+shortLabel BLD.CD4.CD25M.TPC
+longLabel ideas_roadmap127_2019 Primary_T_helper_cells_from peripheral blood
+color 85,163,84
+visibility dense
+
+track bigBed44
+priority 28
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.44.bb
+shortLabel BLD.CD4.CD25.CD127M.TREGPC
+longLabel ideas_roadmap127_2019 Primary_T_regulatory_cells_from peripheral blood
+color 85,163,84
+visibility dense
+
+track bigBed45
+priority 26
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.45.bb
+shortLabel BLD.CD4.CD25I.CD127.TMEMPC
+longLabel ideas_roadmap127_2019 Primary_T_cells_effector/memory_enriched_from_peripheral_blood
+color 85,163,84
+visibility dense
+
+track bigBed46
+priority 45
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.46.bb
+shortLabel BLD.CD56.PC
+longLabel ideas_roadmap127_2019 Primary_Natural_Killer_cells_from peripheral blood
+color 103,140,105
+visibility dense
+
+track bigBed47
+priority 37
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.47.bb
+shortLabel BLD.CD8.NPC
+longLabel ideas_roadmap127_2019 Primary_T_CD8+_naive_cells_from_peripheral_blood
+color 85,163,84
+visibility dense
+
+track bigBed48
+priority 35
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.48.bb
+shortLabel BLD.CD8.MPC
+longLabel ideas_roadmap127_2019 Primary_T_CD8+_memory_cells_from_peripheral_blood
+color 85,163,84
+visibility dense
+
+track bigBed49
+priority 48
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.49.bb
+shortLabel STRM.CHON.MRW.DR.MSC
+longLabel ideas_roadmap127_2019 Mesenchymal_Stem_Cell_Derived_Chondrocyte_Cultured_Cells
+color 182,92,115
+visibility dense
+
+track bigBed50
+priority 42
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.50.bb
+shortLabel BLD.MOB.CD34.PC.F
+longLabel ideas_roadmap127_2019 Primary_hematopoietic_stem_cells_G-CSF-mobilized_Female
+color 103,140,105
+visibility dense
+
+track bigBed51
+priority 41
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.51.bb
+shortLabel BLD.MOB.CD34.PC.M
+longLabel ideas_roadmap127_2019 Primary_hematopoietic_stem_cells_G-CSF-mobilized_Male
+color 103,140,105
+visibility dense
+
+track bigBed52
+priority 51
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.52.bb
+shortLabel MUS.SAT
+longLabel ideas_roadmap127_2019 Muscle_Satellite_Cultured_Cells
+color 230,115,38
+visibility dense
+
+track bigBed53
+priority 61
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.53.bb
+shortLabel BRN.CRTX.DR.NRSPHR
+longLabel ideas_roadmap127_2019 Cortex_derived_primary_cultured_neurospheres
+color 255,217,36
+visibility dense
+
+track bigBed54
+priority 60
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.54.bb
+shortLabel BRN.GANGEM.DR.NRSPHR
+longLabel ideas_roadmap127_2019 Ganglion_Eminence_derived_primary_cultured_neurospheres
+color 255,217,36
+visibility dense
+
+track bigBed55
+priority 52
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.55.bb
+shortLabel SKIN.PEN.FRSK.FIB.01
+longLabel ideas_roadmap127_2019 Foreskin_Fibroblast_Primary_Cells_skin01
+color 255,157,12
+visibility dense
+
+track bigBed56
+priority 53
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.56.bb
+shortLabel SKIN.PEN.FRSK.FIB.02
+longLabel ideas_roadmap127_2019 Foreskin_Fibroblast_Primary_Cells_skin02
+color 255,157,12
+visibility dense
+
+track bigBed57
+priority 56
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.57.bb
+shortLabel SKIN.PEN.FRSK.KER.02
+longLabel ideas_roadmap127_2019 Foreskin_Keratinocyte_Primary_Cells_skin02
+color 255,157,12
+visibility dense
+
+track bigBed58
+priority 57
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.58.bb
+shortLabel SKIN.PEN.FRSK.KER.03
+longLabel ideas_roadmap127_2019 Foreskin_Keratinocyte_Primary_Cells_skin03
+color 255,157,12
+visibility dense
+
+track bigBed59
+priority 54
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.59.bb
+shortLabel SKIN.PEN.FRSK.MEL.01
+longLabel ideas_roadmap127_2019 Foreskin_Melanocyte_Primary_Cells_skin01
+color 255,157,12
+visibility dense
+
+track bigBed60
+priority 55
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.60.bb
+shortLabel SKIN.PEN.FRSK.MEL.03
+longLabel ideas_roadmap127_2019 Foreskin_Melanocyte_Primary_Cells_skin03
+color 255,157,12
+visibility dense
+
+track bigBed61
+priority 24
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.61.bb
+shortLabel BLD.PER.MONUC.PC
+longLabel ideas_roadmap127_2019 Primary_mononuclear_cells_from peripheral blood
+color 85,163,84
+visibility dense
+
+track bigBed62
+priority 74
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.62.bb
+shortLabel FAT.ADIP.NUC
+longLabel ideas_roadmap127_2019 Adipose_Nuclei
+color 175,91,57
+visibility dense
+
+track bigBed63
+priority 84
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.63.bb
+shortLabel VAS.AOR
+longLabel ideas_roadmap127_2019 Aorta
+color 213,111,128
+visibility dense
+
+track bigBed64
+priority 108
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.64.bb
+shortLabel LIV.ADLT
+longLabel ideas_roadmap127_2019 Liver
+color 153,153,153
+visibility dense
+
+track bigBed65
+priority 69
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.65.bb
+shortLabel BRN.ANG.GYR
+longLabel ideas_roadmap127_2019 Brain_Angular_Gyrus
+color 197,145,43
+visibility dense
+
+track bigBed66
+priority 66
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.66.bb
+shortLabel BRN.ANT.CAUD
+longLabel ideas_roadmap127_2019 Brain_Anterior_Caudate
+color 197,145,43
+visibility dense
+
+track bigBed67
+priority 67
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.67.bb
+shortLabel BRN.CING.GYR
+longLabel ideas_roadmap127_2019 Brain_Cingulate_Gyrus
+color 197,145,43
+visibility dense
+
+track bigBed68
+priority 71
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.68.bb
+shortLabel BRN.GRM.MTRX
+longLabel ideas_roadmap127_2019 Brain_Germinal_Matrix
+color 197,145,43
+visibility dense
+
+track bigBed69
+priority 64
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.69.bb
+shortLabel BRN.HIPP.MID
+longLabel ideas_roadmap127_2019 Brain_Hippocampus_Middle
+color 197,145,43
+visibility dense
+
+track bigBed70
+priority 68
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.70.bb
+shortLabel BRN.INF.TMP
+longLabel ideas_roadmap127_2019 Brain_Inferior_Temporal_Lobe
+color 197,145,43
+visibility dense
+
+track bigBed71
+priority 70
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.71.bb
+shortLabel BRN.DL.PRFRNTL.CRTX
+longLabel ideas_roadmap127_2019 Brain_Dorsolateral_Prefrontal_Cortex
+color 197,145,43
+visibility dense
+
+track bigBed72
+priority 65
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.72.bb
+shortLabel BRN.SUB.NIG
+longLabel ideas_roadmap127_2019 Brain_Substantia_Nigra
+color 197,145,43
+visibility dense
+
+track bigBed73
+priority 94
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.73.bb
+shortLabel GI.CLN.MUC
+longLabel ideas_roadmap127_2019 Colonic_Mucosa
+color 197,141,170
+visibility dense
+
+track bigBed74
+priority 86
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.74.bb
+shortLabel GI.CLN.SM.MUS
+longLabel ideas_roadmap127_2019 Colon_Smooth_Muscle
+color 241,130,188
+visibility dense
+
+track bigBed75
+priority 98
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.75.bb
+shortLabel GI.DUO.MUC
+longLabel ideas_roadmap127_2019 Duodenum_Mucosa
+color 197,141,170
+visibility dense
+
+track bigBed76
+priority 85
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.76.bb
+shortLabel GI.DUO.SM.MUS
+longLabel ideas_roadmap127_2019 Duodenum_Smooth_Muscle
+color 241,130,188
+visibility dense
+
+track bigBed77
+priority 99
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.77.bb
+shortLabel GI.ESO
+longLabel ideas_roadmap127_2019 Esophagus
+color 197,141,170
+visibility dense
+
+track bigBed78
+priority 106
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.78.bb
+shortLabel ADRL.GLND.FET
+longLabel ideas_roadmap127_2019 Fetal_Adrenal_Gland
+color 153,153,153
+visibility dense
+
+track bigBed79
+priority 73
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.79.bb
+shortLabel BRN.FET.M
+longLabel ideas_roadmap127_2019 Fetal_Brain_Male
+color 197,145,43
+visibility dense
+
+track bigBed80
+priority 72
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.80.bb
+shortLabel BRN.FET.F
+longLabel ideas_roadmap127_2019 Fetal_Brain_Female
+color 197,145,43
+visibility dense
+
+track bigBed81
+priority 80
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.81.bb
+shortLabel HRT.FET
+longLabel ideas_roadmap127_2019 Fetal_Heart
+color 213,111,128
+visibility dense
+
+track bigBed82
+priority 91
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.82.bb
+shortLabel GI.L.INT.FET
+longLabel ideas_roadmap127_2019 Fetal_Intestine_Large
+color 197,141,170
+visibility dense
+
+track bigBed83
+priority 90
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.83.bb
+shortLabel GI.S.INT.FET
+longLabel ideas_roadmap127_2019 Fetal_Intestine_Small
+color 197,141,170
+visibility dense
+
+track bigBed84
+priority 102
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.84.bb
+shortLabel KID.FET
+longLabel ideas_roadmap127_2019 Fetal_Kidney
+color 153,153,153
+visibility dense
+
+track bigBed85
+priority 105
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.85.bb
+shortLabel PANC.ISLT
+longLabel ideas_roadmap127_2019 Pancreatic_Islets
+color 153,153,153
+visibility dense
+
+track bigBed86
+priority 103
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.86.bb
+shortLabel LNG.FET
+longLabel ideas_roadmap127_2019 Fetal_Lung
+color 153,153,153
+visibility dense
+
+track bigBed87
+priority 78
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.87.bb
+shortLabel MUS.TRNK.FET
+longLabel ideas_roadmap127_2019 Fetal_Muscle_Trunk
+color 194,101,93
+visibility dense
+
+track bigBed88
+priority 79
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.88.bb
+shortLabel MUS.LEG.FET
+longLabel ideas_roadmap127_2019 Fetal_Muscle_Leg
+color 194,101,93
+visibility dense
+
+track bigBed89
+priority 107
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.89.bb
+shortLabel PLCNT.FET
+longLabel ideas_roadmap127_2019 Placenta
+color 153,153,153
+visibility dense
+
+track bigBed90
+priority 89
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.90.bb
+shortLabel GI.STMC.FET
+longLabel ideas_roadmap127_2019 Fetal_Stomach
+color 197,141,170
+visibility dense
+
+track bigBed91
+priority 63
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.91.bb
+shortLabel THYM.FET
+longLabel ideas_roadmap127_2019 Fetal_Thymus
+color 218,185,46
+visibility dense
+
+track bigBed92
+priority 100
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.92.bb
+shortLabel GI.STMC.GAST
+longLabel ideas_roadmap127_2019 Gastric
+color 197,141,170
+visibility dense
+
+track bigBed93
+priority 82
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.93.bb
+shortLabel HRT.VENT.L
+longLabel ideas_roadmap127_2019 Left_Ventricle
+color 213,111,128
+visibility dense
+
+track bigBed94
+priority 110
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.94.bb
+shortLabel LNG
+longLabel ideas_roadmap127_2019 Lung
+color 153,153,153
+visibility dense
+
+track bigBed95
+priority 104
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.95.bb
+shortLabel OVRY
+longLabel ideas_roadmap127_2019 Ovary
+color 153,153,153
+visibility dense
+
+track bigBed96
+priority 109
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.96.bb
+shortLabel PANC
+longLabel ideas_roadmap127_2019 Pancreas
+color 153,153,153
+visibility dense
+
+track bigBed97
+priority 101
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.97.bb
+shortLabel PLCNT.AMN
+longLabel ideas_roadmap127_2019 Placenta_Amnion
+color 153,153,153
+visibility dense
+
+track bigBed98
+priority 75
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.98.bb
+shortLabel MUS.PSOAS
+longLabel ideas_roadmap127_2019 Psoas_Muscle
+color 194,101,93
+visibility dense
+
+track bigBed99
+priority 95
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.99.bb
+shortLabel GI.RECT.MUC.29
+longLabel ideas_roadmap127_2019 Rectal_Mucosa_Donor_29
+color 197,141,170
+visibility dense
+
+track bigBed100
+priority 96
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.100.bb
+shortLabel GI.RECT.MUC.31
+longLabel ideas_roadmap127_2019 Rectal_Mucosa_Donor_31
+color 197,141,170
+visibility dense
+
+track bigBed101
+priority 87
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.101.bb
+shortLabel GI.RECT.SM.MUS
+longLabel ideas_roadmap127_2019 Rectal_Smooth_Muscle
+color 241,130,188
+visibility dense
+
+track bigBed102
+priority 81
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.102.bb
+shortLabel HRT.ATR.R
+longLabel ideas_roadmap127_2019 Right_Atrium
+color 213,111,128
+visibility dense
+
+track bigBed103
+priority 83
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.103.bb
+shortLabel HRT.VNT.R
+longLabel ideas_roadmap127_2019 Right_Ventricle
+color 213,111,128
+visibility dense
+
+track bigBed104
+priority 93
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.104.bb
+shortLabel GI.CLN.SIG
+longLabel ideas_roadmap127_2019 Sigmoid_Colon
+color 197,141,170
+visibility dense
+
+track bigBed105
+priority 77
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.105.bb
+shortLabel MUS.SKLT.M
+longLabel ideas_roadmap127_2019 Skeletal_Muscle_Male
+color 194,101,93
+visibility dense
+
+track bigBed106
+priority 76
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.106.bb
+shortLabel MUS.SKLT.F
+longLabel ideas_roadmap127_2019 Skeletal_Muscle_Female
+color 194,101,93
+visibility dense
+
+track bigBed107
+priority 92
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.107.bb
+shortLabel GI.S.INT
+longLabel ideas_roadmap127_2019 Small_Intestine
+color 197,141,170
+visibility dense
+
+track bigBed108
+priority 97
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.108.bb
+shortLabel GI.STMC.MUC
+longLabel ideas_roadmap127_2019 Stomach_Mucosa
+color 197,141,170
+visibility dense
+
+track bigBed109
+priority 88
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.109.bb
+shortLabel GI.STMC.MUS
+longLabel ideas_roadmap127_2019 Stomach_Smooth_Muscle
+color 241,130,188
+visibility dense
+
+track bigBed110
+priority 62
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.110.bb
+shortLabel THYM
+longLabel ideas_roadmap127_2019 Thymus
+color 218,185,46
+visibility dense
+
+track bigBed111
+priority 111
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.111.bb
+shortLabel SPLN
+longLabel ideas_roadmap127_2019 Spleen
+color 153,153,153
+visibility dense
+
+track bigBed112
+priority 112
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.112.bb
+shortLabel LNG.A549.ETOH002.CNCR
+longLabel ideas_roadmap127_2019 A549_EtOH_0.02pct_Lung_Carcinoma_Cell_Line
+color 0,0,0
+visibility dense
+
+track bigBed113
+priority 113
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.113.bb
+shortLabel BLD.DND41.CNCR
+longLabel ideas_roadmap127_2019 Dnd41_TCell_Leukemia_Cell_Line
+color 0,0,0
+visibility dense
+
+track bigBed114
+priority 114
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.114.bb
+shortLabel BLD.GM12878
+longLabel ideas_roadmap127_2019 GM12878_Lymphoblastoid_Cells
+color 0,0,0
+visibility dense
+
+track bigBed115
+priority 115
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.115.bb
+shortLabel CRVX.HELAS3.CNCR
+longLabel ideas_roadmap127_2019 HeLa-S3_Cervical_Carcinoma_Cell_Line
+color 0,0,0
+visibility dense
+
+track bigBed116
+priority 116
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.116.bb
+shortLabel LIV.HEPG2.CNCR
+longLabel ideas_roadmap127_2019 HepG2_Hepatocellular_Carcinoma_Cell_Line
+color 0,0,0
+visibility dense
+
+track bigBed117
+priority 117
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.117.bb
+shortLabel BRST.HMEC
+longLabel ideas_roadmap127_2019 HMEC_Mammary_Epithelial_Primary_Cells
+color 0,0,0
+visibility dense
+
+track bigBed118
+priority 118
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.118.bb
+shortLabel MUS.HSMM
+longLabel ideas_roadmap127_2019 HSMM_Skeletal_Muscle_Myoblasts_Cells
+color 0,0,0
+visibility dense
+
+track bigBed119
+priority 119
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.119.bb
+shortLabel MUS.HSMMT
+longLabel ideas_roadmap127_2019 HSMM_cell_derived_Skeletal_Muscle_Myotubes_Cells
+color 0,0,0
+visibility dense
+
+track bigBed120
+priority 120
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.120.bb
+shortLabel VAS.HUVEC
+longLabel ideas_roadmap127_2019 HUVEC_Umbilical_Vein_Endothelial_Primary_Cells
+color 0,0,0
+visibility dense
+
+track bigBed121
+priority 121
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.121.bb
+shortLabel BLD.K562.CNCR
+longLabel ideas_roadmap127_2019 K562_Leukemia_Cells
+color 0,0,0
+visibility dense
+
+track bigBed122
+priority 122
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.122.bb
+shortLabel BLD.CD14.MONO
+longLabel ideas_roadmap127_2019 Monocytes-CD14+_RO01746_Primary_Cells
+color 0,0,0
+visibility dense
+
+track bigBed123
+priority 123
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.123.bb
+shortLabel BRN.NHA
+longLabel ideas_roadmap127_2019 NH-A_Astrocytes_Primary_Cells
+color 0,0,0
+visibility dense
+
+track bigBed124
+priority 124
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.124.bb
+shortLabel SKIN.NHDFAD
+longLabel ideas_roadmap127_2019 NHDF-Ad_Adult_Dermal_Fibroblast_Primary_Cells
+color 0,0,0
+visibility dense
+
+track bigBed125
+priority 125
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.125.bb
+shortLabel SKIN.NHEK
+longLabel ideas_roadmap127_2019 NHEK-Epidermal_Keratinocyte_Primary_Cells
+color 0,0,0
+visibility dense
+
+track bigBed126
+priority 126
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.126.bb
+shortLabel LNG.NHLF
+longLabel ideas_roadmap127_2019 NHLF_Lung_Fibroblast_Primary_Cells
+color 0,0,0
+visibility dense
+
+track bigBed127
+priority 127
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://lugh.bmb.psu.edu/IDEAS/Roadmap2018_127cell_12mark_incomplete/hg19/ideas_roadmap127_2019.127.bb
+shortLabel BONE.OSTEO
+longLabel ideas_roadmap127_2019 Osteoblast_Primary_Cells
+color 0,0,0
+visibility dense
+

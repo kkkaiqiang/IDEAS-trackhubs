@@ -2,4 +2,4 @@ hub ideas_roadmap127_2019
 shortLabel IDEAS Roadmap127 2019
 longLabel IDEAS segmentation using incomplete matrix of 12 chromatin signals in 127 cell types from Roadmap Epigenome Project
 genomesFile genomes_ideas_roadmap127_2019.txt
-email yzz2 at psu.edu
+email mahony at psu.edu

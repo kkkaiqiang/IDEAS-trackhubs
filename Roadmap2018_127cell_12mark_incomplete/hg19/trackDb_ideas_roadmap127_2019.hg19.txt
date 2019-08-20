@@ -1,5 +1,5 @@
 track ideasRoadmap127
-shortLabel IDEAS Roadman127
+shortLabel IDEAS Roadmap127
 longLabel IDEAS segmentations using Roadmap on 127 cell types, 2019
 compositeTrack on
 subGroup1 type Type imr90=IMR90 esc=ESC ipsc=iPSC es-deriv=ES-deriv blood=Blood_and_T-cell hsc=HSC_and_B-cell mesench=Mesench myosat=Myosat epith=Epithelial neuro=Neurosph thymus=Thymus brain=Brain adipose=Adipose muscle=Muscle heart=Heart smmuscle=Sm._Muscle digestive=Digestive other=Other enc=ENCODE2012
